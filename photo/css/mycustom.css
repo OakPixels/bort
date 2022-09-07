@@ -1,0 +1,29 @@
+/*!
+ * Start Bootstrap - Grayscale v5.0.6 (https://startbootstrap.com/template-overviews/grayscale)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
+ */
+
+.masthead h1 {
+  font-family: 'Reenie Beanie', cursive;
+  padding-bottom: 5px;
+}
+.masthead h2 {
+  text-transform: uppercase;
+  letter-spacing: 1rem;
+  line-height: 2rem;
+}
+.masthead h2 strong{
+  font-size: 3rem;
+  font-family: 'Reenie Beanie', cursive;
+}
+a.link {
+  background:none;
+  border:none;
+  font-size:48px;
+  color:white;
+}
+
+img[src="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+    display: none;
+}
